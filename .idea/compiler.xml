@@ -6,12 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="Runnable-interface" />
         <module name="Thread-priority" />
         <module name="Synchronized-keyword" />
         <module name="Extend-thread-class" />
         <module name="Join-IsAlive" />
         <module name="Lambda-expression" />
-        <module name="Runnable-interface" />
+        <module name="Inter-Thred-Commiunication" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
