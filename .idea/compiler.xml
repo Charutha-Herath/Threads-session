@@ -13,6 +13,7 @@
         <module name="Join-IsAlive" />
         <module name="Lambda-expression" />
         <module name="Inter-Thred-Commiunication" />
+        <module name="Thread-pool" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
